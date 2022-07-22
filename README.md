@@ -3,7 +3,9 @@ A robust machine learning neural network that can prevent someone fool the class
 
 ### Motivation
 This project is one of the course projects from Optimization course at UC Berkeley.  By completing this project, we first have a preliminary understanding of the neural network of machine learning, understand how the various layers of the neural network coordinate and cooperate to perform classification prediction, and also understand the limitations of the neural network and how to optimize and improve it. 
+
 Secondly, we use this model to examine the theory we have learned, specifically convert the primal problem into a convex and solvable problem by modifying the nonlinear and non-convex RELU, and then simplifying the solution of the primal problem by solving the dual network.
+
 Finally, we can check the results of our optimization and analyze the robustness of classifier by comparing different Epsilon parameters.
 
 ### Description
