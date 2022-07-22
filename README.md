@@ -1,4 +1,4 @@
-# digitClassifier
+# robustClassifier
 A robust machine learning neural network that can prevent someone fool the classifer by changing input image a little bit.
 
 ### Motivation
